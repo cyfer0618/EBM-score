@@ -16,3 +16,6 @@ To test with a particular feature vector use the tag of the feature while execut
 
 For example:
   * `python ebm_test_clique.py -t BM2`
+
+# SHR Scraper
+  * `python SHR_scraper.py`
